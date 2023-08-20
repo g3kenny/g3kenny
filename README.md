@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Kenny Wong
-- 👀 I’m interested in Web Development, Python, Java, AI, Machine Learning 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Web Development, mobile app development, Python, Java, AI, Machine Learning 
+- 🌱 11 years of working experiences as a OOP software programmer, I’m currently learning Python and React Native
+- 💞️ I’m looking for any parttime or freelance work that can practice my learning and earn some side income
+- 📫 You may reach me at g3_kenny@hotmail.com
 
 <!---
 g3kenny/g3kenny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
